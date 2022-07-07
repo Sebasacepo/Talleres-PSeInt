@@ -1,5 +1,6 @@
 Proceso taller
-	Definir nombre, Apellido Como Caracter;
+	//Realizar un programa el cual solicite su nombre y apellidos.
+	Definir nombre, apellido Como Caracter;
 	
 	Escribir "Escriba su nombre: ";
 	Leer nombre;
